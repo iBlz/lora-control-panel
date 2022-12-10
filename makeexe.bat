@@ -1,0 +1,2 @@
+pyinstaller --noconfirm --onefile --icon "C:/Users/skepp/Desktop/Programing/ProjectLoRa/python/images/icon.ico" --add-data "C:/Users/skepp/Desktop/Programing/ProjectLoRa/python/images;images/" --add-data "C:/Users/skepp/Desktop/Programing/ProjectLoRa/python/font.ttf;." --add-data "C:/Users/skepp/Desktop/Programing/ProjectLoRa/python/log_lora.txt;." "C:/Users/skepp/Desktop/Programing/ProjectLoRa/python/LoRa_control_panel.py"
+pause
