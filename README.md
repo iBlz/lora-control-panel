@@ -7,3 +7,4 @@
   <br>
   <img src="https://github.com/iBlz/lora-control-panel/blob/main/Screenshot.jpg"></a>
 </h1>
+### Serial logs are temporarily saved to %temp%/dir/log_lora.txt
