@@ -1,1 +1,1 @@
-# lora-control-panel
+# Lora Control Panel
